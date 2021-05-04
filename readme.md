@@ -1,4 +1,6 @@
-﻿# RSA Encryption/Decryption
+# RSA Encryption/Decryption
+![image](https://user-images.githubusercontent.com/28496314/116994612-8ea45a00-acf6-11eb-94b5-578b978093ec.png)
+
 In this project, a public-key crypto system RSA is implemented, that is widely used for secure data transmission. It is also one of the oldest secure system.
 A string from client to the server is sent.
 
